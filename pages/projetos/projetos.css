@@ -115,6 +115,18 @@ nav ul li a:hover {
     margin-bottom: 15px;
 }
 
+.projetos-lista li:first-child img {
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .projetos-lista li h3 {
     font-size: 1.6rem;
     margin-bottom: 10px;
